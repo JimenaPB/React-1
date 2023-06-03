@@ -1,0 +1,17 @@
+.item-list-container {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  .item-list-container:hover {
+    background-color: #f5b6b6;
+  }
+  
+  p:hover{
+    color: rgb(255, 255, 255); 
+  }
+  p{
+   color:black;
+   font-weight: bolder;
+  }
